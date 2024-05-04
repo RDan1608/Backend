@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+.divlogo{
+
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: stretch;
+}
+
+.logo{
+    margin-top: 100px;
+    width: 150px;
+    height: 150px;
+}
+
+.input{
+    border-radius: 20px;
+    padding: 2px;
+    width: 200px;
+    margin-top: 8px;
+    background-color: rgb(48, 48, 48);
+    color: white;
+}
+
+.login{
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: stretch;
+}
+
+.btn{
+    width: 200px;
+    height: 35px;
+    background-color: #777EE3;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+}

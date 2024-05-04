@@ -1,0 +1,33 @@
+
+ 
+<body>
+    <div class="nav">
+        <div class="user">
+            <img class="img" src={{usersid.imagen}} alt="">
+        </div>
+             <p class="nombreuser"> {{usersid.nombre}}</p>
+        <i class="fa-solid fa-user" style="color: #ffffff;"></i>
+
+    </div>
+
+   <div class="div1">
+        <input class="search-bar" type="text" placeholder=" Search">
+   </div>   
+
+   <app-chats-individuales *ngFor="let conversacion of usersid.conversaciones"></app-chats-individuales>
+
+</body>
+
+<footer>
+    <div class="pie">
+
+        <i class="fa-solid fa-comment-dots" style="color: #7774e3;"></i>
+        <i class="fa-solid fa-users" style="color: #ffffff;"></i>
+        <a (click)="navegar()"><i class="fa-solid fa-phone" style="color: #ffffff;"></i></a>
+        <a (click)="volverALogin()"><i class="fa-solid fa-ellipsis" style="color: #ffffff;"></i></a>
+    </div>
+
+</footer>
+
+
+   

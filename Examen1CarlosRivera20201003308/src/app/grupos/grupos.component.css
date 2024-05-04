@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+
+.pie{
+    height: 50px;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: flex-end;
+
+    
+}
+
+.mensaje{
+    border-radius: 20px;
+    width: 300px;
+    color: white;
+    background-color: rgb(60, 60, 60);
+}
+
+.div1{
+    margin-top: 5px;
+    height: 50px;
+    background-color: rgb(27, 26, 26);
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: center;
+	align-content: flex-end;
+    margin-left:10px;
+    margin-right:10px;
+}

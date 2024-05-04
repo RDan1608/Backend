@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "64e25f9cd77773aa08d6b9cc"
+  },
+  "emisor": {
+    "id": "64e23616d77773aa08d6b986",
+    "nombre": "Naruto",
+    "imagen": ""
+  },
+  "receptor": {
+    "id": "64e23616d77773aa08d6b989",
+    "nombre": "Sakura",
+    "imagen": ""
+  },
+  "status": "Llamada saliente",
+  "tiempo": "7 minutos"
+},
+{
+  "_id": {
+    "$oid": "64e25f9cd77773aa08d6b9cd"
+  },
+  "emisor": {
+    "id": "64e23616d77773aa08d6b987",
+    "nombre": "Sasuke",
+    "imagen": ""
+  },
+  "receptor": {
+    "id": "64e23616d77773aa08d6b989",
+    "nombre": "Sakura",
+    "imagen": ""
+  },
+  "status": "Llamada entrante",
+  "tiempo": "5 minutos"
+},
+{
+  "_id": {
+    "$oid": "64e25f9cd77773aa08d6b9ce"
+  },
+  "emisor": {
+    "id": "64e23616d77773aa08d6b988",
+    "nombre": "Kakashi",
+    "imagen": ""
+  },
+  "receptor": {
+    "id": "64e23616d77773aa08d6b986",
+    "nombre": "Naruto",
+    "imagen": ""
+  },
+  "status": "Llamada perdida",
+  "tiempo": "3 minutos"
+}]

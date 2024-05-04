@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "64e26a75d77773aa08d6b9d6"
+  },
+  "emisor": {
+    "id": "64e23616d77773aa08d6b986",
+    "nombre": "Naruto",
+    "imagen": ""
+  },
+  "receptor": {
+    "id": "64e23616d77773aa08d6b989",
+    "nombre": "Sakura",
+    "imagen": ""
+  },
+  "ultimoMensaje": "Lorem Ipsum",
+  "fechaConversacionn": "12/12/2021",
+  "mensajes": [
+    {
+      "id_mensaje": 2,
+      "emisor": "64e23616d77773aa08d6b989",
+      "receptor": "64e23616d77773aa08d6b986",
+      "mensaje": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "hora": "10:12 PM"
+    },
+    {
+      "id_mensaje": 3,
+      "emisor": "64e23616d77773aa08d6b986",
+      "receptor": "64e23616d77773aa08d6b989",
+      "mensaje": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "hora": "10:13 PM"
+    },
+    "hola"
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "64e26a75d77773aa08d6b9d7"
+  },
+  "emisor": {
+    "id": "64e23616d77773aa08d6b986",
+    "nombre": "Naruto",
+    "imagen": ""
+  },
+  "receptor": {
+    "id": "64e23616d77773aa08d6b98b",
+    "nombre": "Tobi",
+    "imagen": ""
+  },
+  "ultimoMensaje": "Lorem Ipsum",
+  "fechaConversacionn": "12/12/2021",
+  "mensajes": [
+    {
+      "id_mensaje": 1,
+      "emisor": "64e23616d77773aa08d6b986",
+      "receptor": "64e23616d77773aa08d6b98b",
+      "mensaje": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "hora": "10:11 PM"
+    },
+    {
+      "id_mensaje": 2,
+      "emisor": "64e23616d77773aa08d6b986",
+      "receptor": "64e23616d77773aa08d6b98b",
+      "mensaje": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "hora": "10:12 PM"
+    },
+    {
+      "id_mensaje": 3,
+      "emisor": "64e23616d77773aa08d6b98b",
+      "receptor": "64e23616d77773aa08d6b986",
+      "mensaje": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "hora": "10:13 PM"
+    }
+  ]
+}]

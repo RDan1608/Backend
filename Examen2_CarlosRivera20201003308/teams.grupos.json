@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "64e2441ed77773aa08d6b997"
+  },
+  "nombreGrupo": "Akatsuki",
+  "miembros": [
+    {
+      "id": "64e23616d77773aa08d6b98b",
+      "nombre": "Tobi",
+      "imagen": "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/12602-635813231.jpg"
+    },
+    {
+      "id": "64e23616d77773aa08d6b98e",
+      "nombre": "Kisame",
+      "imagen": "https://ami.animecharactersdatabase.com/images/naruto/Kisame_Hoshigaki_thumb.jpg"
+    },
+    {
+      "id": "64e23616d77773aa08d6b98d",
+      "nombre": "Madara",
+      "imagen": "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/67712-852978014.jpg"
+    },
+    {
+      "id": "64e23616d77773aa08d6b986",
+      "nombre": "Naruto",
+      "imagen": "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/67712-852978014.jpg"
+    }
+  ],
+  "mensajes": [
+    {
+      "emisor": "64e23616d77773aa08d6b98e",
+      "receptor": null,
+      "mensaje": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "hora": "10:11 PM"
+    },
+    {
+      "emisor": "64e23616d77773aa08d6b98b",
+      "receptor": null,
+      "mensaje": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "hora": "10:12 PM"
+    },
+    {
+      "emisor": "64e23616d77773aa08d6b98d",
+      "receptor": null,
+      "mensaje": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "hora": "10:13 PM"
+    },
+    {
+      "emisor": "64e23616d77773aa08d6b986",
+      "receptor": null,
+      "mensaje": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "hora": "10:14 PM"
+    },
+    {
+      "emisor": "64e23616d77773aa08d6b98e",
+      "receptor": "null",
+      "mensaje": "Lorem ipsum dolor sit amet, consectetur",
+      "hora": "1:11 PM"
+    },
+    {
+      "emisor": "64e23616d77773aa08d6b98e",
+      "receptor": "null",
+      "mensaje": "Lorem ipsum dolor sit amet, consectetur",
+      "hora": "1:11 PM"
+    }
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "64e2441ed77773aa08d6b998"
+  },
+  "nombreGrupo": "Equipo 7",
+  "miembros": [
+    {
+      "id": "64e23616d77773aa08d6b987",
+      "nombre": "Sakura",
+      "imagen": null
+    },
+    {
+      "id": "64e23616d77773aa08d6b988",
+      "nombre": "Sasuke",
+      "imagen": "https://ami.animecharactersdatabase.com/images/naruto/Sasuke_Uchiha_thumb.jpg"
+    },
+    {
+      "id": "64e23616d77773aa08d6b986",
+      "nombre": "Naruto",
+      "imagen": "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/5688-1946301974.jpg"
+    },
+    {
+      "id": "64e23616d77773aa08d6b98d",
+      "nombre": "Madara",
+      "imagen": "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/67712…"
+    },
+    {
+      "id": "64e23616d77773aa08d6b98d",
+      "nombre": "Madara",
+      "imagen": "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/67712…"
+    }
+  ],
+  "mensajes": [
+    {
+      "emisor": "64e23616d77773aa08d6b987",
+      "receptor": null,
+      "mensaje": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "hora": "10:11 PM"
+    },
+    {
+      "emisor": "64e23616d77773aa08d6b988",
+      "receptor": null,
+      "mensaje": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "hora": "10:12 PM"
+    },
+    {
+      "emisor": "64e23616d77773aa08d6b986",
+      "receptor": null,
+      "mensaje": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "hora": "10:13 PM"
+    },
+    {
+      "emisor": "64e23616d77773aa08d6b987",
+      "receptor": null,
+      "mensaje": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "hora": "10:14 PM"
+    }
+  ],
+  "__v": 2
+}]

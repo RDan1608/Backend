@@ -1,0 +1,131 @@
+[{
+  "_id": {
+    "$oid": "64e26effd77773aa08d6b9dc"
+  },
+  "nombre": "Naruto",
+  "contrasena": "asd.456",
+  "status": "ausente",
+  "imagen": "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/5688-1946301974.jpg",
+  "conversaciones": [
+    {
+      "idConversacion": "64e26a75d77773aa08d6b9d6",
+      "idDestinatario": "64e23616d77773aa08d6b989",
+      "idGrupo": null,
+      "tipo": "individual",
+      "ultimoMensaje": "Lorem ipsum dolor",
+      "horaUltimoMensaje": "10:11 PM",
+      "nombreDestinatario": "Sakura",
+      "imagenDestinatario": ""
+    },
+    {
+      "idConversacion": null,
+      "idDestinatario": null,
+      "idGrupo": "64e2441ed77773aa08d6b997",
+      "tipo": "grupal",
+      "ultimoMensaje": "Lorem ipsum dolor",
+      "horaUltimoMensaje": "10:11 PM",
+      "nombreDestinatario": "Akatsuki",
+      "imagenDestinatario": null
+    },
+    {
+      "idConversacion": "64e26a75d77773aa08d6b9d7",
+      "idDestinatario": "64e23616d77773aa08d6b98b",
+      "idGrupo": null,
+      "tipo": "individual",
+      "ultimoMensaje": "Lorem ipsum dolor",
+      "horaUltimoMensaje": "10:11 PM",
+      "nombreDestinatario": "Tobi",
+      "imagenDestinatario": ""
+    },
+    {
+      "idConversacion": null,
+      "idDestinatario": null,
+      "idGrupo": "64e2441ed77773aa08d6b998",
+      "tipo": "grupal",
+      "ultimoMensaje": "Lorem ipsum dolor",
+      "horaUltimoMensaje": "10:11 PM",
+      "nombreDestinatario": "Equipo 7",
+      "imagenDestinatario": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e26effd77773aa08d6b9dd"
+  },
+  "nombre": "Sakura",
+  "contrasena": "asd.456",
+  "status": "ocupado",
+  "imagen": null,
+  "conversaciones": []
+},
+{
+  "_id": {
+    "$oid": "64e26effd77773aa08d6b9de"
+  },
+  "nombre": "Sasuke",
+  "contrasena": "asd.456",
+  "status": "",
+  "imagen": "https://ami.animecharactersdatabase.com/images/naruto/Sasuke_Uchiha_thumb.jpg",
+  "conversaciones": []
+},
+{
+  "_id": {
+    "$oid": "64e26effd77773aa08d6b9df"
+  },
+  "nombre": "Tsunade",
+  "contrasena": "asd.456",
+  "status": "disponible",
+  "imagen": null,
+  "conversaciones": []
+},
+{
+  "_id": {
+    "$oid": "64e26effd77773aa08d6b9e0"
+  },
+  "nombre": "Jiraya",
+  "contrasena": "asd.456",
+  "status": "ausente",
+  "imagen": "https://ami.animecharactersdatabase.com/images/naruto/Jiraiya_thumb.jpg",
+  "conversaciones": []
+},
+{
+  "_id": {
+    "$oid": "64e26effd77773aa08d6b9e1"
+  },
+  "nombre": "Tobi",
+  "contrasena": "asd.456",
+  "status": "ocupado",
+  "imagen": "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/12602-635813231.jpg",
+  "conversaciones": []
+},
+{
+  "_id": {
+    "$oid": "64e26effd77773aa08d6b9e2"
+  },
+  "nombre": "Orochimaru",
+  "contrasena": "asd.456",
+  "status": "disponible",
+  "imagen": "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/5688-101606445.jpg",
+  "conversaciones": []
+},
+{
+  "_id": {
+    "$oid": "64e26effd77773aa08d6b9e3"
+  },
+  "nombre": "Madara",
+  "contrasena": "asd.456",
+  "status": "disponible",
+  "imagen": "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/67712-852978014.jpg",
+  "conversaciones": []
+},
+{
+  "_id": {
+    "$oid": "64e26effd77773aa08d6b9e4"
+  },
+  "nombre": "Kisame",
+  "contrasena": "asd.456",
+  "status": "ausente",
+  "imagen": "https://ami.animecharactersdatabase.com/images/naruto/Kisame_Hoshigaki_thumb.jpg",
+  "conversaciones": []
+}]
